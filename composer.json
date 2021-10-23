@@ -1,5 +1,5 @@
 {
-    "name":        "insolita/yii2-adminlte-widgets" ,
+    "name":        "svfolder/yii2-adminlte-widgets" ,
     "description": "Widgets for AdminLTE theme (Box with remember collapse state, Timeline, Tile, Callout, SmallBox etc)" ,
     "type":        "yii2-extension" ,
     "keywords":    [ "yii2" , "widget" , "adminlte" ] ,
@@ -16,7 +16,7 @@
     } ,
     "autoload":    {
         "psr-4": {
-            "insolita\\wgadminlte\\": ""
+            "svfolder\\wgadminlte\\": ""
         }
     }
 }
