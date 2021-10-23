@@ -1,26 +1,26 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Insolita
+ * User: svfolder
  * Date: 11.11.14
  * Time: 0:50
  */
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\web\AssetBundle;
 
 /**
  * Class CollapseBoxAsset
  *
- * @package insolita\wgadminlte
+ * @package svfolder\wgadminlte
  */
 class CollapseBoxAsset extends AssetBundle
 {
     /**
      * @var string
      */
-    public $sourcePath = '@vendor/insolita/yii2-adminlte-widgets/js';
+    public $sourcePath = '@vendor/svfolder/yii2-adminlte-widgets/js';
     
     /**
      * @var array
@@ -36,7 +36,7 @@ class CollapseBoxAsset extends AssetBundle
     public $depends
         = [
             'yii\web\YiiAsset',
-            'insolita\wgadminlte\JsCookieAsset',
+            'svfolder\wgadminlte\JsCookieAsset',
         ];
 }
 

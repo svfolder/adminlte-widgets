@@ -3,12 +3,12 @@
  * Created by solly [25.03.17 16:19]
  */
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 /**
  * Class LteConst
  *
- * @package insolita\wgadminlte
+ * @package svfolder\wgadminlte
  */
 class LteConst
 {

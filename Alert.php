@@ -1,6 +1,6 @@
 <?php
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\bootstrap\Widget;
 use yii\helpers\ArrayHelper;
@@ -14,7 +14,7 @@ use yii\helpers\Html;
  * <?php Alert::begin(['type'=>'info','closable'=>true])?>
  *    Alert message
  * <?php Alert::end()?>
- * @package insolita\wgadminlte
+ * @package svfolder\wgadminlte
  */
 class Alert extends Widget
 {

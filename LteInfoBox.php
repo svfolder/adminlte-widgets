@@ -3,14 +3,14 @@
  * Created by solly [25.03.17 21:53]
  */
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\bootstrap\Widget;
 
 /**
  * Class LteInfoBox
  *
- * @package insolita\wgadminlte
+ * @package svfolder\wgadminlte
  */
 class LteInfoBox extends Widget
 {

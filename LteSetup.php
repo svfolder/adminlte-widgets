@@ -3,7 +3,7 @@
  * Created by solly [25.03.17 20:21]
  */
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\web\View;
 use yii\base\Widget;
@@ -14,7 +14,7 @@ use yii\web\JsExpression;
  * Class LteSetup - override default adminlte settings if you need
  * Register this widget with customized settings in layout
  *
- * @package insolita\wgadminlte
+ * @package svfolder\wgadminlte
  */
 class LteSetup extends Widget
 {

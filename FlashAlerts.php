@@ -1,6 +1,6 @@
 <?php
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\bootstrap\Widget;
 use yii\helpers\ArrayHelper;
@@ -11,7 +11,7 @@ use yii\helpers\Html;
  *
  * @example
  *    add in layout
- *    <?=\insolita\wgadminlte\FlashAlerts::widget([]);?>
+ *    <?=\svfolder\wgadminlte\FlashAlerts::widget([]);?>
  *   In controllers
  *    Yii::$app->session->setFlash('warning','Message1',true);
  *    Yii::$app->session->setFlash('warning-order','Message2');

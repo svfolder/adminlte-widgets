@@ -3,7 +3,7 @@
  * Created by solly [25.03.17 17:44]
  */
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\bootstrap\ButtonGroup;
 use yii\helpers\Html;
@@ -11,7 +11,7 @@ use yii\helpers\Html;
 /**
  * Class CollapseBox
  *
- * @package insolita\wgadminlte
+ * @package svfolder\wgadminlte
  */
 class CollapseBox extends LteBox
 {

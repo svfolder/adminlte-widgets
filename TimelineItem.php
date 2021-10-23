@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Insolita
+ * User: svfolder
  * Date: 11.11.14
  * Time: 3:45
  */
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\base\BaseObject;
 

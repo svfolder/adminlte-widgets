@@ -1,6 +1,6 @@
 <?php
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
@@ -49,11 +49,11 @@ class Timeline extends Widget
      * @example
      * 'defaultDateBg'=>function($data){
      *      if(is_string($data)){
-     *          return insolita\wgadminlte\Timeline::TYPE_BLUE;
+     *          return svfolder\wgadminlte\Timeline::TYPE_BLUE;
      *      }elseif($data->type==1){
-     *          return insolita\wgadminlte\Timeline::TYPE_LBLUE;
+     *          return svfolder\wgadminlte\Timeline::TYPE_LBLUE;
      *      }else{
-     *         return insolita\wgadminlte\Timeline::TYPE_TEAL;
+     *         return svfolder\wgadminlte\Timeline::TYPE_TEAL;
      *      }
      * }
      **/

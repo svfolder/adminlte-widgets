@@ -1,6 +1,6 @@
 <?php
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\bootstrap\Widget;
 use yii\helpers\Html;

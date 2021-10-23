@@ -1,22 +1,25 @@
 {
-    "name":        "svfolder/yii2-adminlte-widgets" ,
-    "description": "Widgets for AdminLTE theme (Box with remember collapse state, Timeline, Tile, Callout, SmallBox etc)" ,
-    "type":        "yii2-extension" ,
-    "keywords":    [ "yii2" , "widget" , "adminlte" ] ,
-    "license":     "MIT" ,
-    "authors":     [
-        {
-            "name":  "insolita" ,
-            "email": "donnainsolita@gmail.com"
-        }
-    ] ,
-    "require":     {
-        "yiisoft/yii2":          ">=2.0.13" ,
-        "js-cookie/js-cookie": "@dev"
-    } ,
-    "autoload":    {
-        "psr-4": {
-            "svfolder\\wgadminlte\\": ""
-        }
+  "name": "svfolder/yii2-adminlte-widgets",
+  "description": "Widgets for AdminLTE theme (Box with remember collapse state, Timeline, Tile, Callout, SmallBox etc)",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "widget",
+    "adminlte"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "svfolder",
+      "email": "sv_Gvozdj@mail.ru"
     }
+  ],
+  "require": {
+    "yiisoft/yii2": ">=2.0.13"
+  },
+  "autoload": {
+    "psr-4": {
+      "svfolder\\wgadminlte\\": ""
+    }
+  }
 }

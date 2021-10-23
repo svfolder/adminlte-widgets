@@ -3,7 +3,7 @@
  * Created by solly [25.03.17 16:18]
  */
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\bootstrap\ButtonGroup;
 use yii\bootstrap\Widget;
@@ -28,7 +28,7 @@ use yii\helpers\Html;
  * 'body'=>'Inline body definition',
  * 'footer'=>'theFooter']);
  * ?>
- * @package insolita\wgadminlte
+ * @package svfolder\wgadminlte
  */
 class LteBox extends Widget
 {

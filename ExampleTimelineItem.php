@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Insolita
+ * User: svfolder
  * Date: 11.11.14
  * Time: 4:53
  */
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 /**
  * It`s Example Customization TimelineItem Object

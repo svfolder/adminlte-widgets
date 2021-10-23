@@ -1,6 +1,6 @@
 <?php
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\bootstrap\Widget;
 use yii\helpers\Html;
@@ -16,7 +16,7 @@ use yii\helpers\Html;
  * <?php Callout::begin(['type'=>'info','head'=>'Soma Head'])?>
  *    Some body content
  * <?php Callout::end();?>
- * @package insolita\wgadminlte
+ * @package svfolder\wgadminlte
  */
 class Callout extends Widget
 {

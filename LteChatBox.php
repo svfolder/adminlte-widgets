@@ -3,7 +3,7 @@
  * Created by solly [26.03.17 0:30]
  */
 
-namespace insolita\wgadminlte;
+namespace svfolder\wgadminlte;
 
 use yii\helpers\Html;
 
@@ -32,7 +32,7 @@ use yii\helpers\Html;
  *
  * echo LteChatBox::end();
  * ?>
- * @package insolita\wgadminlte
+ * @package svfolder\wgadminlte
  */
 class LteChatBox extends LteBox
 {
