@@ -1,5 +1,5 @@
 {
-  "name": "svfolder/yii2-adminlte-widgets",
+  "name": "svfolder/adminlte-widgets",
   "description": "Widgets for AdminLTE theme (Box with remember collapse state, Timeline, Tile, Callout, SmallBox etc)",
   "type": "yii2-extension",
   "keywords": [
